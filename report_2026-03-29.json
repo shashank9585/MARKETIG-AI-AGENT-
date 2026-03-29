@@ -1,0 +1,59 @@
+{
+  "report_date": "2026-03-29",
+  "pipeline_health_score": 100,
+  "health_explanation": "All 3 leads are On Track with no escalations or losses.",
+  "three_key_numbers": [
+    {
+      "metric": "On Track Ratio",
+      "value": "100%",
+      "context": "All leads are progressing as planned."
+    },
+    {
+      "metric": "Emails Sent",
+      "value": "3",
+      "context": "All leads received personalized outreach."
+    },
+    {
+      "metric": "Escalations",
+      "value": "0",
+      "context": "No leads require immediate attention."
+    }
+  ],
+  "needs_attention": [],
+  "positive_momentum": [
+    {
+      "lead_id": "1",
+      "lead_name": "TechFlow Solutions",
+      "signal": "Engaged with subject line 'Reclaim 30% Engineering Time'"
+    },
+    {
+      "lead_id": "2",
+      "lead_name": "CloudScale Inc.",
+      "signal": "Responded positively to 'Scaling Ops Without the Drag'"
+    },
+    {
+      "lead_id": "3",
+      "lead_name": "FinFire Solutions",
+      "signal": "Showed interest in 'Reduce Infra Firefighting'"
+    }
+  ],
+  "escalations_awaiting": [],
+  "autonomous_actions_completed": [
+    "Personalized outreach emails sent to all 3 leads.",
+    "Pipeline Manager updated with lead progress."
+  ],
+  "optimization_intelligence": {
+    "top_insight": "Subject lines emphasizing time savings and operational efficiency resonated well.",
+    "change_for_tomorrow": "Test similar subject line formulas with the next batch, especially targeting 'Cold' tier leads.",
+    "stop_doing": "N/A (no negative patterns identified)"
+  },
+  "tomorrows_plan": {
+    "autonomous_actions": [
+      "Prepare next batch of outreach emails using optimized subject lines."
+    ],
+    "human_decisions_needed": [
+      "Review and approve new subject lines for 'Cold' tier leads."
+    ]
+  },
+  "focus_sentence": "Approve the new subject line formulas for 'Cold' tier leads before noon."
+}

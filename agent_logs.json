@@ -1,0 +1,564 @@
+[
+  {
+    "agent": "Manager",
+    "timestamp": "2026-03-29T01:11:50.247273",
+    "prompt_len": 11770,
+    "success": true,
+    "error": null,
+    "response_len": 3464
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:13:12.121342",
+    "prompt_len": 3431,
+    "success": true,
+    "error": null,
+    "response_len": 993
+  },
+  {
+    "agent": "Qualification",
+    "timestamp": "2026-03-29T01:13:48.343480",
+    "prompt_len": 4284,
+    "success": true,
+    "error": null,
+    "response_len": 1124
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:14:23.541932",
+    "prompt_len": 3414,
+    "success": true,
+    "error": null,
+    "response_len": 999
+  },
+  {
+    "agent": "Qualification",
+    "timestamp": "2026-03-29T01:15:04.658002",
+    "prompt_len": 4273,
+    "success": true,
+    "error": null,
+    "response_len": 586
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:15:45.744976",
+    "prompt_len": 3424,
+    "success": true,
+    "error": null,
+    "response_len": 1085
+  },
+  {
+    "agent": "Qualification",
+    "timestamp": "2026-03-29T01:16:26.471863",
+    "prompt_len": 4359,
+    "success": true,
+    "error": null,
+    "response_len": 1487
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:17:16.248571",
+    "prompt_len": 3428,
+    "success": true,
+    "error": null,
+    "response_len": 1041
+  },
+  {
+    "agent": "Qualification",
+    "timestamp": "2026-03-29T01:18:20.383649",
+    "prompt_len": 4319,
+    "success": true,
+    "error": null,
+    "response_len": 1191
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:19:05.217057",
+    "prompt_len": 3419,
+    "success": true,
+    "error": null,
+    "response_len": 1292
+  },
+  {
+    "agent": "Qualification",
+    "timestamp": "2026-03-29T01:20:02.250369",
+    "prompt_len": 4561,
+    "success": true,
+    "error": null,
+    "response_len": 565
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:20:39.038507",
+    "prompt_len": 3424,
+    "success": true,
+    "error": null,
+    "response_len": 1670
+  },
+  {
+    "agent": "Manager",
+    "timestamp": "2026-03-29T01:22:24.888424",
+    "prompt_len": 3451,
+    "success": true,
+    "error": null,
+    "response_len": 2843
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:23:25.655190",
+    "prompt_len": 3431,
+    "success": true,
+    "error": null,
+    "response_len": 1085
+  },
+  {
+    "agent": "Qualification",
+    "timestamp": "2026-03-29T01:24:18.742025",
+    "prompt_len": 4391,
+    "success": true,
+    "error": null,
+    "response_len": 622
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:25:03.772987",
+    "prompt_len": 3414,
+    "success": true,
+    "error": null,
+    "response_len": 907
+  },
+  {
+    "agent": "Qualification",
+    "timestamp": "2026-03-29T01:25:57.925221",
+    "prompt_len": 4171,
+    "success": false,
+    "error": "HTTP 503: {\"success\":false,\"error\":\"AI service temporarily unavailable. Please try again.\",\"code\":503}"
+  },
+  {
+    "agent": "Research",
+    "timestamp": "2026-03-29T01:26:37.376441",
+    "prompt_len": 3424,
+    "success": true,
+    "error": null,
+    "response_len": 1063
+  },
+  {
+    "agent": "Qualification",
+    "timestamp": "2026-03-29T01:27:22.396916",
+    "prompt_len": 4347,
+    "success": false,
+    "error": "HTTP 503: {\"success\":false,\"error\":\"AI service temporarily unavailable. Please try again.\",\"code\":503}"
+  },
+  {
+    "agent": "Pipeline Manager",
+    "timestamp": "2026-03-29T01:27:57.006068",
+    "prompt_len": 13636,
+    "success": true,
+    "error": null,
+    "response_len": 1121
+  },
+  {
+    "agent": "Outreach",
+    "timestamp": "2026-03-29T01:28:52.427307",
+    "prompt_len": 5715,
+    "success": true,
+    "error": null,
+    "response_len": 1103
+  },
+  {
+    "agent": "Personalization",
+    "timestamp": "2026-03-29T01:29:30.820347",
+    "prompt_len": 6507,
+    "success": true,
+    "error": null,
+    "response_len": 1760
+  },
+  {
+    "agent": "Escalation",
+    "timestamp": "2026-03-29T01:30:09.208012",
+    "prompt_len": 12385,
+    "success": true,
+    "error": null,
+    "response_len": 819
+  },
+  {
+    "agent": "Marketing Intelligence",
+    "timestamp": "2026-03-29T01:30:49.962767",
+    "prompt_len": 2903,
+    "success": true,
+    "error": null,
+    "response_len": 3534
+  },
+  {
+    "agent": "Reporting",
+    "timestamp": "2026-03-29T01:31:32.536791",
+    "prompt_len": 20376,
+    "success": true,
+    "error": null,
+    "response_len": 1986
+  },
+  {
+    "agent": "Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 2344,
+    "time": "21:52:35"
+  },
+  {
+    "agent": "Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 2363,
+    "time": "22:12:02"
+  },
+  {
+    "agent": "Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 2414,
+    "time": "22:55:15"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 979,
+    "time": "22:55:54"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 537,
+    "time": "22:56:37"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 934,
+    "time": "22:57:15"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 545,
+    "time": "22:57:58"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 1037,
+    "time": "22:58:38"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 490,
+    "time": "22:59:27"
+  },
+  {
+    "agent": "Pipeline Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 1101,
+    "time": "23:01:15"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 1123,
+    "time": "23:01:55"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 1394,
+    "time": "23:02:42"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 952,
+    "time": "23:04:23"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 1334,
+    "time": "23:05:36"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 956,
+    "time": "23:06:22"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 1052,
+    "time": "23:07:02"
+  },
+  {
+    "agent": "Manager",
+    "lead_id": "",
+    "success": false,
+    "resp_len": 0,
+    "time": "23:14:37"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 952,
+    "time": "23:16:59"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 538,
+    "time": "23:17:40"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 964,
+    "time": "23:18:24"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 587,
+    "time": "23:19:01"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 915,
+    "time": "23:19:41"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 541,
+    "time": "23:20:17"
+  },
+  {
+    "agent": "Pipeline Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 953,
+    "time": "23:21:51"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 995,
+    "time": "23:22:41"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 1207,
+    "time": "23:23:19"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 976,
+    "time": "23:24:00"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 1264,
+    "time": "23:24:38"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 981,
+    "time": "23:25:14"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 1277,
+    "time": "23:28:19"
+  },
+  {
+    "agent": "Pipeline Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 1033,
+    "time": "23:29:29"
+  },
+  {
+    "agent": "Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 486,
+    "time": "23:31:44"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 926,
+    "time": "23:32:24"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 546,
+    "time": "23:32:59"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 949,
+    "time": "23:33:41"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 619,
+    "time": "23:34:19"
+  },
+  {
+    "agent": "Research",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 990,
+    "time": "23:34:56"
+  },
+  {
+    "agent": "Qualification",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 566,
+    "time": "23:35:32"
+  },
+  {
+    "agent": "Pipeline Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 532,
+    "time": "23:36:09"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 815,
+    "time": "23:36:46"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 1302,
+    "time": "23:37:26"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 1046,
+    "time": "23:38:06"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 1422,
+    "time": "23:38:44"
+  },
+  {
+    "agent": "Outreach",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 952,
+    "time": "23:39:20"
+  },
+  {
+    "agent": "Personalization",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 1284,
+    "time": "23:40:06"
+  },
+  {
+    "agent": "Pipeline Manager",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 545,
+    "time": "23:40:42"
+  },
+  {
+    "agent": "Monitoring",
+    "lead_id": "L001",
+    "success": true,
+    "resp_len": 337,
+    "time": "23:41:17"
+  },
+  {
+    "agent": "Monitoring",
+    "lead_id": "L002",
+    "success": true,
+    "resp_len": 336,
+    "time": "23:41:59"
+  },
+  {
+    "agent": "Monitoring",
+    "lead_id": "L003",
+    "success": true,
+    "resp_len": 337,
+    "time": "23:42:30"
+  },
+  {
+    "agent": "Escalation",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 86,
+    "time": "23:43:00"
+  },
+  {
+    "agent": "Marketing Intelligence",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 1406,
+    "time": "23:43:58"
+  },
+  {
+    "agent": "Reporting",
+    "lead_id": "",
+    "success": true,
+    "resp_len": 1731,
+    "time": "23:44:35"
+  }
+]
