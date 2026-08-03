@@ -52,8 +52,8 @@ MAX_RETRIES  = 3           # max retries per agent call before skip
 # Outlook SMTP — use your real Outlook email + password
 # If using Microsoft 365 work account, may need App Password
 # Settings: login.microsoftonline.com → Security → App Passwords
-EMAIL_USER    = "heshashank789@outlook.com"
-EMAIL_PASS    = "heshashank789"
+EMAIL_USER    = "YOUR_EMAIL_ADDRESS"
+EMAIL_PASS    = "YOUR_PASSWORD"
 SMTP_SERVER   = "smtp.office365.com"
 SMTP_PORT     = 587
 
