@@ -1,6 +1,6 @@
 # Autonomous Sales AI Agent 
 
-# ⚡ Autonomous Sales and Revenue Agent 
+# ⚡ Autonomous Sales and Revenue Engine 
 Autonomous-Sales-AI-Agent
 
 > A multi-agent AI system that simulates and automates the entire B2B sales pipeline — from lead research to outreach, monitoring, and reporting.
